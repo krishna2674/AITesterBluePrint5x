@@ -6,8 +6,8 @@ QA skills and sample artifacts for test planning, test case creation, and API re
 
 - `Chapter_00_Skill_Basic/skills/00_Basic_Skills/`: basic test planning, test case, and API validation skills.
 - `Chapter_00_Skill_Basic/skills/01_Advance_Skills/test/testplan-creator-skill/`: Jira-based test planning skill, requirement checklist, template, company assets, and fetch script.
-- `Chapter_00_Skill_Basic/resources/`: local sample requirements; Jira exports are excluded from Git.
-- `output/`: local generated PDF test plans and sample test case artifacts, excluded from Git. Plans remain drafts until reviewed and approved.
+- `Chapter_00_Skill_Basic/resources/`: sample VWO requirement export.
+- `output/`: generated PDF test plans and sample test case artifacts. Plans remain drafts until reviewed and approved.
 
 ## Jira setup
 
