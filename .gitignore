@@ -1,0 +1,22 @@
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary renders, raw Jira responses, and build helpers
+/tmp/
+
+# Local Jira requirements and generated QA documents
+/Chapter_00_Skill_Basic/resources/VWO-49.doc
+/output/
+
+# Local tooling and generated caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
